@@ -1,0 +1,1093 @@
+fileFormatVersion: 2
+guid: 249c2ef649f1aca4182dadfda91d839b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful level selection screen vector_5997278_0"
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 975
+        width: 70
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53dc1e4d2d183e4c9cf9037322e690a
+      internalID: 1996294208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful level selection screen vector_5997278_1"
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 975
+        width: 58
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bc5aa4cdc04f343b44bbf8009d8c1d
+      internalID: -1808686341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful level selection screen vector_5997278_2"
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 976
+        width: 25
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2164d178aeb512468b338549811ab10
+      internalID: -764174788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful level selection screen vector_5997278_3"
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 975
+        width: 58
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3937fac5cf7442469f5c83ed4e40a71
+      internalID: 1866601663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful level selection screen vector_5997278_4"
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 975
+        width: 97
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c60e9fbed918f4988194625f69fd1a
+      internalID: -1111260752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful level selection screen vector_5997278_5"
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 976
+        width: 60
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccdbee06c97ae7e4ab72b2b481691abb
+      internalID: -2130077910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful level selection screen vector_5997278_6"
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 975
+        width: 58
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cded55422f14644bc17751f1d7e17f
+      internalID: 124303254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful level selection screen vector_5997278_7"
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 975
+        width: 58
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a192c7cc495fb5941b75a23c55bbd922
+      internalID: -1906180250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful level selection screen vector_5997278_8"
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 975
+        width: 58
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a8603d65c385047b6ba4b6c83d3bbb
+      internalID: 1862686807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful level selection screen vector_5997278_9"
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 976
+        width: 25
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4deaaf66ec038184b9b5dbb32adc9ede
+      internalID: -109805209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful level selection screen vector_5997278_10"
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 844
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02778221da3852b4db5d2e4b35375637
+      internalID: 697941207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful level selection screen vector_5997278_11"
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 845
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d668ac79aba2e08438205cf003cd76d9
+      internalID: 187311924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful level selection screen vector_5997278_12"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 845
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a452623880b2414a8dda20be95c57ac
+      internalID: -1037313295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful level selection screen vector_5997278_13"
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 844
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2dc586117052fa429f3f87d52e6ddfc
+      internalID: 1043349217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful level selection screen vector_5997278_14"
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 845
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3565091a9ddf9b4192921193ccc5825
+      internalID: -537532877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful level selection screen vector_5997278_15"
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 845
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930f8048dabe40947805587431db8c9f
+      internalID: 752035184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful level selection screen vector_5997278_16"
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 844
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72e8035fa2d666469711986ed887ac5
+      internalID: 807180185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful level selection screen vector_5997278_17"
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 845
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d48fafb88311ab489f280d8e5627a62
+      internalID: 770501502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful level selection screen vector_5997278_18"
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 845
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bead3558aac17704583f175281a50da6
+      internalID: 187016236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful level selection screen vector_5997278_19"
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 844
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64977fa74f12e204990074e733aefa01
+      internalID: -835831780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful level selection screen vector_5997278_20"
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 845
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a112567b7383743a09de5bbecbfcd8
+      internalID: 1027552100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful level selection screen vector_5997278_21"
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 845
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f373f90877f57314f866a75666e2d5a8
+      internalID: 918401241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful level selection screen vector_5997278_22"
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 844
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6410a7c340a194b4da4b49df782af69b
+      internalID: 1402881764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful level selection screen vector_5997278_23"
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 845
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9832356de8d899641bfff55906730808
+      internalID: -688373930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful level selection screen vector_5997278_24"
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 845
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59add4e51cb478b43869c159d7838b43
+      internalID: -984410358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful level selection screen vector_5997278_25"
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 710
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b8f7b28133b2e44ab5d0729cca9ab9
+      internalID: 1098223578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful level selection screen vector_5997278_26"
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 710
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f28e12547455442bb27ebf7f11f84f
+      internalID: 1252524636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful level selection screen vector_5997278_27"
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 710
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4dec739d46d00e40a977a41a2811831
+      internalID: -1704396968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful level selection screen vector_5997278_28"
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 710
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d764093b045ec408b5f26a0d79edc7
+      internalID: 1039044155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful level selection screen vector_5997278_29"
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 710
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5e1c0c741ff404a8f22ae7b32ec63a
+      internalID: 1512529223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful level selection screen vector_5997278_30"
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 651
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070d2313159e80849a30ce2312115d20
+      internalID: -1453022891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful level selection screen vector_5997278_31"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 552
+        width: 97
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a97289a1f5ca3544a808ae336b0b12c
+      internalID: 1172297612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful level selection screen vector_5997278_32"
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 518
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e815c8758608c8a40b78e72a34dc7210
+      internalID: -1766490435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful level selection screen vector_5997278_33"
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 518
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97617c82fafe5140998e6ab251674e4
+      internalID: -106528180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful level selection screen vector_5997278_34"
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 518
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f76844a22390bf41835a47e2e274ed3
+      internalID: -1531642207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful level selection screen vector_5997278_35"
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 518
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb9fcce61b51e4489ebf5ad4caf80a3
+      internalID: -1470127866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful level selection screen vector_5997278_36"
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 518
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c34944d12f367c47a46aa76629d3e5f
+      internalID: -1877469794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful level selection screen vector_5997278_37"
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 552
+        width: 97
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff35c6ef808f6724ba27c27ac488ec6e
+      internalID: 252309832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful level selection screen vector_5997278_38"
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 324
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d526ea31827e10948bd2ad8fe4193b47
+      internalID: 646350959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful level selection screen vector_5997278_39"
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 324
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5422ba15363d1b14e922f90ab3f1704a
+      internalID: -832374481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful level selection screen vector_5997278_40"
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 324
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98766abd066fbc0468bcc145ce0b09c9
+      internalID: 472213831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful level selection screen vector_5997278_41"
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 324
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db22fc007595b144e98686605eaae0e1
+      internalID: -1254859347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful level selection screen vector_5997278_42"
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 324
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d14d49e991670428c1ac290daa8f6b
+      internalID: 1048463236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "\u2014Pngtree\u2014colorful level selection screen vector_5997278_0": 1996294208
+      "\u2014Pngtree\u2014colorful level selection screen vector_5997278_1": -1808686341
+      "\u2014Pngtree\u2014colorful level selection screen vector_5997278_10": 697941207
+      "\u2014Pngtree\u2014colorful level selection screen vector_5997278_11": 187311924
+      "\u2014Pngtree\u2014colorful level selection screen vector_5997278_12": -1037313295
+      "\u2014Pngtree\u2014colorful level selection screen vector_5997278_13": 1043349217
+      "\u2014Pngtree\u2014colorful level selection screen vector_5997278_14": -537532877
+      "\u2014Pngtree\u2014colorful level selection screen vector_5997278_15": 752035184
+      "\u2014Pngtree\u2014colorful level selection screen vector_5997278_16": 807180185
+      "\u2014Pngtree\u2014colorful level selection screen vector_5997278_17": 770501502
+      "\u2014Pngtree\u2014colorful level selection screen vector_5997278_18": 187016236
+      "\u2014Pngtree\u2014colorful level selection screen vector_5997278_19": -835831780
+      "\u2014Pngtree\u2014colorful level selection screen vector_5997278_2": -764174788
+      "\u2014Pngtree\u2014colorful level selection screen vector_5997278_20": 1027552100
+      "\u2014Pngtree\u2014colorful level selection screen vector_5997278_21": 918401241
+      "\u2014Pngtree\u2014colorful level selection screen vector_5997278_22": 1402881764
+      "\u2014Pngtree\u2014colorful level selection screen vector_5997278_23": -688373930
+      "\u2014Pngtree\u2014colorful level selection screen vector_5997278_24": -984410358
+      "\u2014Pngtree\u2014colorful level selection screen vector_5997278_25": 1098223578
+      "\u2014Pngtree\u2014colorful level selection screen vector_5997278_26": 1252524636
+      "\u2014Pngtree\u2014colorful level selection screen vector_5997278_27": -1704396968
+      "\u2014Pngtree\u2014colorful level selection screen vector_5997278_28": 1039044155
+      "\u2014Pngtree\u2014colorful level selection screen vector_5997278_29": 1512529223
+      "\u2014Pngtree\u2014colorful level selection screen vector_5997278_3": 1866601663
+      "\u2014Pngtree\u2014colorful level selection screen vector_5997278_30": -1453022891
+      "\u2014Pngtree\u2014colorful level selection screen vector_5997278_31": 1172297612
+      "\u2014Pngtree\u2014colorful level selection screen vector_5997278_32": -1766490435
+      "\u2014Pngtree\u2014colorful level selection screen vector_5997278_33": -106528180
+      "\u2014Pngtree\u2014colorful level selection screen vector_5997278_34": -1531642207
+      "\u2014Pngtree\u2014colorful level selection screen vector_5997278_35": -1470127866
+      "\u2014Pngtree\u2014colorful level selection screen vector_5997278_36": -1877469794
+      "\u2014Pngtree\u2014colorful level selection screen vector_5997278_37": 252309832
+      "\u2014Pngtree\u2014colorful level selection screen vector_5997278_38": 646350959
+      "\u2014Pngtree\u2014colorful level selection screen vector_5997278_39": -832374481
+      "\u2014Pngtree\u2014colorful level selection screen vector_5997278_4": -1111260752
+      "\u2014Pngtree\u2014colorful level selection screen vector_5997278_40": 472213831
+      "\u2014Pngtree\u2014colorful level selection screen vector_5997278_41": -1254859347
+      "\u2014Pngtree\u2014colorful level selection screen vector_5997278_42": 1048463236
+      "\u2014Pngtree\u2014colorful level selection screen vector_5997278_5": -2130077910
+      "\u2014Pngtree\u2014colorful level selection screen vector_5997278_6": 124303254
+      "\u2014Pngtree\u2014colorful level selection screen vector_5997278_7": -1906180250
+      "\u2014Pngtree\u2014colorful level selection screen vector_5997278_8": 1862686807
+      "\u2014Pngtree\u2014colorful level selection screen vector_5997278_9": -109805209
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
